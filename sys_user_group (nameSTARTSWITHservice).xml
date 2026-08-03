@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-08-03 00:07:52">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value=""/>
+<name>ServiceNow Allow Admin Access</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>Aqib</sys_created_by>
+<sys_created_on>2026-08-02 12:11:25</sys_created_on>
+<sys_id>22a02380932ac790cc23f847dd03d60b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Aqib</sys_updated_by>
+<sys_updated_on>2026-08-02 12:11:25</sys_updated_on>
+<type/>
+</sys_user_group>
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description>Admins Access</description>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value=""/>
+<name>ServiceNow Admin's</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-20 23:10:24</sys_created_on>
+<sys_id>45dab24493920710cc23f847dd03d6df</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-20 23:10:24</sys_updated_on>
+<type/>
+</sys_user_group>
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email>service.desk@yourcompany.com</email>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</manager>
+<name>Service Desk</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>glide.maint</sys_created_by>
+<sys_created_on>2026-02-02 00:14:56</sys_created_on>
+<sys_id>d625dccec0a8016700a222a0f7900d06</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>glide.maint</sys_updated_by>
+<sys_updated_on>2026-02-02 00:14:56</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>

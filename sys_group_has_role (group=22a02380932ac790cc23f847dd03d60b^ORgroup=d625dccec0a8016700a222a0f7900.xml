@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-08-03 00:09:54">
+<sys_group_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<group display_value="ServiceNow Allow Admin Access" name="ServiceNow Allow Admin Access">22a02380932ac790cc23f847dd03d60b</group>
+<inherits>true</inherits>
+<role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role>
+<sys_created_by>Aqib</sys_created_by>
+<sys_created_on>2026-08-02 12:12:01</sys_created_on>
+<sys_id>33e0ef80932ac790cc23f847dd03d69d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Aqib</sys_updated_by>
+<sys_updated_on>2026-08-02 12:12:01</sys_updated_on>
+</sys_group_has_role>
+<sys_group_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<group display_value="ServiceNow Admin's" name="ServiceNow Admin's">45dab24493920710cc23f847dd03d6df</group>
+<inherits>true</inherits>
+<role display_value="security_admin" name="security_admin">b2d8f7130a0a0baa5bf52498ecaadeb4</role>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-20 23:12:34</sys_created_on>
+<sys_id>157bba8493920710cc23f847dd03d6de</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-20 23:12:34</sys_updated_on>
+</sys_group_has_role>
+<sys_group_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<group display_value="ServiceNow Admin's" name="ServiceNow Admin's">45dab24493920710cc23f847dd03d6df</group>
+<inherits>true</inherits>
+<role display_value="snc_required_script_writer_permission" name="snc_required_script_writer_permission">af99d5310be312105bf96e1ef777b2b4</role>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-20 23:12:35</sys_created_on>
+<sys_id>197bfa8493920710cc23f847dd03d60a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-20 23:12:35</sys_updated_on>
+</sys_group_has_role>
+<sys_group_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<group display_value="ServiceNow Admin's" name="ServiceNow Admin's">45dab24493920710cc23f847dd03d6df</group>
+<inherits>true</inherits>
+<role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-20 23:12:31</sys_created_on>
+<sys_id>247b3a8493920710cc23f847dd03d632</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-20 23:12:31</sys_updated_on>
+</sys_group_has_role>
+<sys_group_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<group display_value="ServiceNow Admin's" name="ServiceNow Admin's">45dab24493920710cc23f847dd03d6df</group>
+<inherits>true</inherits>
+<role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</role>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-20 23:12:34</sys_created_on>
+<sys_id>517bba8493920710cc23f847dd03d6ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-20 23:12:34</sys_updated_on>
+</sys_group_has_role>
+</unload>

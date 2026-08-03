@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_515169_a_perso_0.user" name="x_515169_a_perso_0.user">4de1425c93ae4b90cc23f847dd03d676</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Aqib</sys_created_by>
+        <sys_created_on>2026-08-02 23:55:14</sys_created_on>
+        <sys_id>c1e1425c93ae4b90cc23f847dd03d679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4de1425c93ae4b90cc23f847dd03d676</sys_name>
+        <sys_package display_value="A Personal Development" source="x_515169_a_perso_0">74e1025c93ae4b90cc23f847dd03d63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="A Personal Development">74e1025c93ae4b90cc23f847dd03d63d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c1e1425c93ae4b90cc23f847dd03d679</sys_update_name>
+        <sys_updated_by>Aqib</sys_updated_by>
+        <sys_updated_on>2026-08-02 23:55:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
